@@ -3,11 +3,11 @@
 I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I have a keen interest exploring and building new solutions but most of my work is not publically available for download.
 
 Specializations include: 
-✅ Exploring and Implementing Technology Solutions for my client's success
-✅ Analysis & Business Intelligence visualizations to solve problems, discover trends and gain insights
-✅ Product Development Building Software that Empowers Business Growth thru Automation
-✅ Project Management Consulting, Research and Leading Cross-functional teams
-✅ Mitigating Risks by planning and reducing impacts of disasters through ongoing community resilience
+* ✅ Exploring and Implementing Technology Solutions for my client's success
+* ✅ Analysis & Business visualizations to solve problems, discover trends and gain insights
+* ✅ Product Development Building Software that Empowers Business Growth thru Automation
+* ✅ Project Management Consulting, Research and Leading Cross-functional teams
+* ✅ Mitigating Risks by planning and reducing impacts of disasters through ongoing community resilience
 
 As a Professional Project Manager, I have recognized presentations + decisions based on data are critical to the iterative cycle of Agile development so I am continually using and improving my data analysis, data visualization and business intelligence skills.  
 
