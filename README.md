@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Clinton Boyda
 
-I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I have a keen interest exploring and building new solutions but most of my work is not publically available for download. I started in custom database development -> launched a SaaS CMS -> Directed Emergency Management -> now focused on leveraging analytics for better data-driven decisions and automation!
+I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I started in custom database development -> launched a SaaS CMS -> Directed Emergency Management -> now focused on leveraging analytics for better data-driven decisions and automation!
 
 Specializations include: 
 * ✅ Exploring and Implementing Technology Solutions for my client's success
@@ -9,6 +9,7 @@ Specializations include:
 * ✅ Project Management Consulting, Research and Leading Cross-functional teams
 * ✅ Mitigating Risks by planning and reducing impacts of disasters through ongoing community resilience
 
+I have a keen interest exploring and building new solutions but most of my work is not publically available for download. 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 Outside of work, I ... 
