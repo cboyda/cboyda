@@ -2,6 +2,8 @@
 
 I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I have a keen interest exploring and building new solutions.  As a Professional Project Manager, I have recognized presentations and decisions based on data are critical to the iterative cycle of Agile development.  I am continually improving my data analysis, data visualization and machine learning skills.  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=transparent&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats)
+
 Outside of work, I ... 
 * 📡 Collect Star Wars 3.75" figures, monsters and vehicles to explore a Galaxy Far Far Away...
 * 🏔️ Escape to the **mountains** as often as possible, member of Alpine, Caving and Search and Rescue
