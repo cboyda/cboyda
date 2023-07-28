@@ -8,9 +8,9 @@ Outside of work, I ...
 * 🙌 Volunteer to strengthen my community
 
 ### ✍️ Writing about Applying Technology to Solve Today's Challenges
-* [Improving Emergency Management Communications with Starlink Satellite Internet](https://www.linkedin.com/pulse/improving-emergency-management-communications-starlink)- 14th June 2023
+* [Improving Emergency Management Communications with Starlink Satellite Internet](https://www.linkedin.com/pulse/improving-emergency-management-communications-starlink) - 14th June 2023
 * [How Agility Can Improve Disaster Management](https://www.linkedin.com/pulse/how-agility-can-improve-disaster-management-d4h-technologies) - 10th June 2023
-* [Resilience in Emergency Management: Reducing the Impact of Disasters](https://www.linkedin.com/pulse/resilience-emergency-management-reducing-impact-disasters)- 31st March 2023
+* [Resilience in Emergency Management: Reducing the Impact of Disasters](https://www.linkedin.com/pulse/resilience-emergency-management-reducing-impact-disasters) - 31st March 2023
 * [Climate Change Effects on Emergency Management](https://www.linkedin.com/pulse/climate-change-effects-emergency-management-d4h-technologies) - 7th October 2022
 
 ### 📬 Connect with Me
