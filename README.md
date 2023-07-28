@@ -1,4 +1,4 @@
-### 👋Hi, I'm Clinton Boyda
+### 👋 Hi, I'm Clinton Boyda
 
 I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I have a keen interest exploring and building new solutions but most of my work is not publically available for download.
 
