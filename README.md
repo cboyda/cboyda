@@ -1,19 +1,19 @@
 ### 👋 Hi, I'm Clinton Boyda
 
-I'm a University graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I started in custom database development -> launched a SaaS CMS -> Directed Emergency Management -> now focused on leveraging analytics for better data-driven decisions and automation!
+I'm a University of Alberta graduate with a degree in both Psychology and Computing Science [aka Cognitive Science]. I started in custom database development -> launched a SaaS CMS -> directed Emergency Management -> now focused on leveraging analytics for better data-driven decisions and automation!  My path started automating and storing data, now it is focused on helping interpret all this information.
 
 Specializations include: 
 * ✅ Exploring and Implementing Technology Solutions for my client's success
 * ✅ Analysis & Business visualizations to solve problems, discover trends and gain insights
 * ✅ Product Development Building Software that Empowers Business Growth thru Automation
 * ✅ Project Management Consulting, Research and Leading Cross-functional teams
-* ✅ Mitigating Risks by planning and reducing impacts of disasters through ongoing community resilience
+* ✅ Mitigating Risks by planning and reducing the impacts of disasters through community resilience
 
-I have a keen interest exploring and building new solutions but most of my work is not publically available for download.  Lately, I have been focusing on data analysis, machine learning, and data visualizations to improve my projects, presentations and assist decision-makers in better data-driven behaviour.  
+I have a keen interest exploring and building new solutions with most of my previous work being confidenially delivered to clients (not publically available for download).  Lately, I have been focusing on data analysis, machine learning, and data visualizations to improve project delivery, presentations and assist decision-makers with better data-driven behaviour.  
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 Outside of work, I ... 
-* 🚀 Collect Star Wars 3.75" figures, monsters and vehicles to explore a Galaxy Far Far Away...
+* 🚀 I am a Star Wars fan (3.75" figures, monsters and vehicles) and enjoy exploring a Galaxy Far Far Away...
 * 🏔️ Escape to the **mountains** as often as possible, member of Alpine, Caving and Search and Rescue
 * 🙌 Volunteer to strengthen my community
 
