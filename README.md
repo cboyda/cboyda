@@ -10,6 +10,14 @@ Specializations include:
 * ✅ Mitigating Risks by planning and reducing the impacts of disasters through community resilience
 
 I have a keen interest exploring and building new solutions with most of my previous work being confidenially delivered to clients (not publically available for download).  Lately, I have been focusing on data analysis, machine learning, and data visualizations to improve project delivery, presentations and assist decision-makers with better data-driven behaviour.  
+
+### 🏆 Latest Github Public Repositories
+* [Python Visualizations](https://github.com/cboyda/Visualizations/blob/main/README.md)
+* [Data Analytics with an Agriculuture Focus](https://github.com/cboyda/Palette_Cohort_4)
+* [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
+* [Machine Learning](https://github.com/cboyda/MachineLearning)
+* [MS Excel Interactive Radar Speed Sign Dashboard](https://github.com/cboyda/Radar-Camera-Dashboard)
+* 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 Outside of work, I ... 
