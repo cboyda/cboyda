@@ -17,7 +17,7 @@ I have a keen interest exploring and building new solutions with most of my prev
 * [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
 * [Machine Learning](https://github.com/cboyda/MachineLearning)
 * [MS Excel Interactive Radar Speed Sign Dashboard](https://github.com/cboyda/Radar-Camera-Dashboard)
-* 
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 Outside of work, I ... 
