@@ -13,8 +13,8 @@ I have a keen interest exploring and building new solutions with most of my prev
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 Outside of work, I ... 
-* 🚀 I am a Star Wars fan (3.75" figures, monsters and vehicles) and enjoy exploring a Galaxy Far Far Away...
-* 🏔️ Escape to the **mountains** as often as possible, member of Alpine, Caving and Search and Rescue
+* 🚀 I am a Star Wars fan (the original 3.75" size) and enjoy exploring a Galaxy Far Far Away...
+* 🏔️ Escape to hike in the **mountains**, member of Alpine, Caving and Search and Rescue
 * 🙌 Volunteer to strengthen my community
 
 ### ✍️ Writing about Applying Technology to Solve Today's Challenges
