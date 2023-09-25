@@ -16,6 +16,7 @@ I have a keen interest exploring and building new solutions with most of my prev
 * [Data Analytics with an Agriculuture Focus](https://github.com/cboyda/Palette_Cohort_4)
 * [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
 * [Machine Learning](https://github.com/cboyda/MachineLearning)
+* [Observable Profile]([https://github.com/cboyda/LighthouseLabs/blob/b9d86569fbef20b700ceb63f8840f08db839e77b/Project-SQL/images/all_sessions-unused%20columns.png?raw=true](https://observablehq.com/@cboyda?tab=profile)) - demonstrating JS CSS HTML SQL SVG DOM D3
 * [MS Excel Interactive Radar Speed Sign Dashboard](https://github.com/cboyda/Radar-Camera-Dashboard)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
