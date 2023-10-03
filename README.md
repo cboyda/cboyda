@@ -13,7 +13,7 @@ I have a keen interest exploring and building new solutions with most of my prev
 
 ### 🏆 Latest Github Public Repositories
 * [Python Visualizations](https://github.com/cboyda/Visualizations/blob/main/README.md)
-* [Data Analytics with an Agriculuture Focus](https://github.com/cboyda/Palette_Cohort_4)
+* [Data Analytics with an Agriculutural Focus](https://github.com/cboyda/Palette_Cohort_4)
 * [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
 * [Machine Learning](https://github.com/cboyda/MachineLearning)
 * [Observable Profile](https://observablehq.com/@cboyda?tab=profile) - demonstrating JS CSS HTML SQL SVG DOM D3
