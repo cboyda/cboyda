@@ -13,11 +13,11 @@ I have a keen interest exploring and building new solutions with most of my prev
 
 ### 🏆 Latest Github Public Repositories
 * [Python Visualizations](https://github.com/cboyda/Visualizations/blob/main/README.md)
-* [Data Analytics with an Agriculutural Focus](https://github.com/cboyda/Palette_Cohort_4)
+* [BI and Data Analytics, Agriculutural Focus](https://github.com/cboyda/Palette_Cohort_4)
 * [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
 * [Machine Learning](https://github.com/cboyda/MachineLearning)
 * [Observable Profile](https://observablehq.com/@cboyda?tab=profile) - demonstrating JS CSS HTML SQL SVG DOM D3
-* [MS Excel Interactive Radar Speed Sign Dashboard](https://github.com/cboyda/Radar-Camera-Dashboard)
+* [Municipal MS Excel Interactive Radar Speed Sign Dashboard](https://github.com/cboyda/Radar-Camera-Dashboard)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=cboyda&theme=tokyonight&hide_border=true&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
