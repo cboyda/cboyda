@@ -12,6 +12,9 @@ Specializations include:
 I have a keen interest exploring and building new solutions with most of my previous work being confidenially delivered to clients (not publically available for download).  Lately, I have been focusing on data analysis, machine learning, and data visualizations to improve project delivery, presentations and assist decision-makers with better data-driven behaviour.  
 
 ### 🏆 Latest Github Public Repositories
+* [Canola Presentation vs Market Value with GIS integration](https://github.com/cboyda/AgTech/blob/main/README_capstone.md)
+* [Python Statistical Modelling](https://github.com/cboyda/LighthouseLabs/tree/main/Project-Python_Statistics) including YELP/FourSquare/CityBikes API's
+* [Machine Learning AirBnb Analysis](https://github.com/cboyda/MachineLearning/blob/main/Capstone/AMii%20Capstone%20March%202023.pdf)
 * [Python Visualizations](https://github.com/cboyda/Visualizations/blob/main/README.md)
 * [BI and Data Analytics, Agriculutural Focus](https://github.com/cboyda/Palette_Cohort_4)
 * [Data Analytics: Python, API's and Tableau](https://github.com/cboyda/LighthouseLabs)
